@@ -9,7 +9,7 @@ sites:
     url: https://api.pastiadasolusi.com
 
 status-website:
-  # baseUrl: /your-repo-name
+  baseUrl: /watcher
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: IS UP
   introTitle: "powered entirely by GitHub."
