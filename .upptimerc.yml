@@ -7,12 +7,14 @@ sites:
     url: https://pastiadasolusi.com
   - name: Telkomsel PAS REST
     url: https://api.pastiadasolusi.com
+  - name: Telkomsel PAS BUCKET
+    url: https://bucket.pastiadasolusi.com
 
 status-website:
   baseUrl: /watcher
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: data:image/svg+xml;charset=UTF-8;base64,PHN2ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDMyIDMyIiB3aWR0aD0iMTAwJSIgZml0PSIiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiIGZvY3VzYWJsZT0iZmFsc2UiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE2IDEuMzMzTDQgNi42Njd2OGMwIDcuNCA1LjEyIDE0LjMyIDEyIDE2IDYuODgtMS42OCAxMi04LjYgMTItMTZ2LThMMTYgMS4zMzN6bTAgMTQuNjU0aDkuMzMzQzI0LjYyNyAyMS40OCAyMC45NiAyNi4zNzMgMTYgMjcuOTA3VjE2SDYuNjY3VjguNEwxNiA0LjI1M3YxMS43MzR6IiBmaWxsPSIjODVBNEU2IiBmaWxsLXJ1bGU9Im5vbnplcm8iPjwvcGF0aD48cGF0aCBkPSJNMTYgMS4zMzN2MjkuMzM0YzYuODgtMS42OCAxMi04LjYgMTItMTZ2LThMMTYgMS4zMzN6bTkuMzMzIDE0LjY1NEMyNC42MjcgMjEuNDggMjAuOTYgMjYuMzczIDE2IDI3LjkwN1YxNmw5LjMzMy0uMDEzeiIgZmlsbD0iIzVDODVERSIgZmlsbC1ydWxlPSJub256ZXJvIj48L3BhdGg+PHBhdGggZD0iTTI3Ljk0OCAxNkgyNS4zNHMtLjA1NC4zODctLjEyNS43NzRMMjcuOTQ4IDE2ek00LjA2NCAxNkg2LjY2di0uNzZ6IiBmaWxsPSIjMzM2N0Q2Ij48L3BhdGg+PC9zdmc+
   name: IS UP
-  introTitle: "powered entirely by GitHub."
+  introTitle: ""
   introMessage: 
   navbar:
     - title: Status
