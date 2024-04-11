@@ -4,7 +4,7 @@
     "url": "https://pastiadasolusi.com",
     "icon": "https://icons.duckduckgo.com/ip3/pastiadasolusi.com.ico",
     "slug": "telkomsel-pas",
-    "status": "up",
+    "status": "down",
     "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "71.31%",
@@ -16,6 +16,7 @@
     "timeMonth": 4810,
     "timeYear": 2048,
     "dailyMinutesDown": {
+      "2024-04-11": 0,
       "2024-04-08": 1216,
       "2024-04-07": 923,
       "2024-04-06": 752,
