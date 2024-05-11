@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pastiadasolusi.com.ico",
     "slug": "telkomsel-pas",
     "status": "down",
-    "uptime": "91.78%",
+    "uptime": "91.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "35.35%",
-    "uptimeYear": "91.78%",
+    "uptimeMonth": "32.07%",
+    "uptimeYear": "91.53%",
     "time": 2180,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 4472,
+    "timeMonth": 4538,
     "timeYear": 2180,
     "dailyMinutesDown": {
-      "2024-05-10": 35,
+      "2024-05-11": 34,
+      "2024-05-10": 1440,
       "2024-05-09": 1440,
       "2024-05-08": 1440,
       "2024-05-07": 1440,
@@ -58,8 +59,7 @@
       "2023-07-05": 18,
       "2023-06-27": 107,
       "2023-06-17": 16,
-      "2023-06-08": 175,
-      "2023-05-12": 431
+      "2023-06-08": 175
     }
   },
   {
@@ -79,8 +79,7 @@
     "timeMonth": 0,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2023-05-13": 161,
-      "2023-05-12": 1054
+      "2023-05-13": 161
     }
   },
   {
@@ -99,8 +98,6 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 610,
-    "dailyMinutesDown": {
-      "2023-05-12": 769
-    }
+    "dailyMinutesDown": {}
   }
 ]
